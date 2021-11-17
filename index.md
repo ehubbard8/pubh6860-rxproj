@@ -6,8 +6,8 @@ bigimg: /img/Papillomavirus_capsid.png
 ---
 
 ---
-#Experimental Design
-####*In progress*
+# Experimental Design
+#### *In progress*
 ---
 
 ![Experimental Design plan](/img/brainstorming HPV ELH 9Nov2021.jpg)
