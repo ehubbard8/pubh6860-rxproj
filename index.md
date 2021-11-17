@@ -1,8 +1,8 @@
 ---
 layout: page
-title: My Data Science Project Page
-subtitle: Predictive Analytics for predicting tomorrow's winning lottery numbers.
-bigimg: /img/path.jpg
+title: Exploring the Human Papillomavirus Genome
+subtitle: Phylogenetics examines evolutionary relationships between HPV oncogenes
+bigimg: /img/Papillomavirus_capsid.png
 ---
 
 <div class="main-explain-area jumbotron">
