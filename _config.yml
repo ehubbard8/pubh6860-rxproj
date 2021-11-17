@@ -8,16 +8,16 @@
 # *** If you're not sure what this means, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "http://kerchner.github.io/beautiful-project"
+url: "http://ehubbard8.github.io/pubh6860-rxproj"
 
 # baseurl should be an empty string
 #baseurl: ""
 
 # Name of website
-title: My New Data Science Project
+title: Evolutionary Relationships of Human Papillomavirus Oncogenes
 
 # Short description of your site
-description: Here's the new description of my project
+description: Independent research project for PUBH6860 Principles of Bioinformatics. Using phylogenetics to examine evolutionary relationships of oncogenes of HPVs of different types as compared to non-cancer causing genes of HPVs of different types.
 
 # --- Navigation bar options --- #
 
@@ -42,29 +42,29 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Your name goes here
-  email: "youremail@gmail.com"
-  facebook: yourfacebook
-  github: yourgithub
-  twitter: yourtwitter
+  name: Erika Hubbard
+  email: "ehubbard28@gwu.edu"
+# facebook: yourfacebook
+# github: yourgithub
+# twitter: yourtwitter
 #  linkedin: "pub/dean-attali/8/946/143"
 #  stackoverflow: "users/3943160/daattali"
  
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
-  twitter: true
-  github: true
+  twitter: false
+  github: false
   linkedin: false
   stackoverflow: false
   
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
