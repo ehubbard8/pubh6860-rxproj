@@ -28,10 +28,10 @@ description: Independent research project for PUBH6860 Principles of Bioinformat
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Resources:
-    - Getting started: "getstarted"
-    - Other sites that use this template: "featured-users"
-    - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
+  #Resources:
+   # - Getting started: "getstarted"
+   # - Other sites that use this template: "featured-users"
+   # - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
   #Example pages:
   #  - Example of a Markdown page: "md-example"
   #  - Example of an HTML page: "html-example"
