@@ -2,7 +2,7 @@
 layout: page
 title: Exploring the Human Papillomavirus Genome
 subtitle: Phylogenetics examines evolutionary relationships between HPV oncogenes
-bigimg: /img/Papillomavirus_capsid.png
+bigimg: /img/5keq.png
 ---
 
 ---
